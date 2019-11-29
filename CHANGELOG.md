@@ -13,6 +13,7 @@ All notable changes to Jodd project are documented here.
 
 ### Features
 
++ **db** - added Db detector [#401](https://github.com/oblac/jodd/issues/401).
 + **db** - added basic callable support [#389](https://github.com/oblac/jodd/issues/389).
 + **lagarto** - allow strings in css selector pseudo functions without quotation marks [#301](https://github.com/oblac/jodd/issues/301).
 + **db** - added `resetAll` method for hard-resetting the queries.
@@ -35,7 +36,7 @@ All notable changes to Jodd project are documented here.
 
 ### System
 
-+ **gradle** - updated to Gradle 3.3
++ **gradle** - updated to Gradle 3.4.1
 
 
 ## [3.8.1](https://github.com/oblac/jodd/compare/v3.8.0...v3.8.1)
